@@ -17,7 +17,6 @@ function getHammingDistance(string str1, string str2){
     }
     return hammingDistance; //returns the hamming distance
   }
-
 }
 
 //----------------------------------------------------------------------------------------------------
