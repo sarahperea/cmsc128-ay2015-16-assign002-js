@@ -103,7 +103,7 @@ function getMinSkewN(string str, int n){ //returns an integer
 //number of Cs in the first n nucleotides (q>=n). The value can be zero, negative or positive. The first position
 //is one (1) not zero(0) as we typically associate with string implementations. (description from the handout)
 
-
+	int sarah;
 }
 
 
