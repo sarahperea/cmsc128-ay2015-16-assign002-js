@@ -56,21 +56,27 @@ function isValidString(string str, string alphabet){
 
 //----------------------------------------------------------------------------------------------------
 function getSkew(string str, int n){ //returns an integer
-  
-  
+//Given a genome str of some length q (where q>0), it returns the number of Gs minus the number of Cs
+//in the first n nucleotides (q>=n). The value can be zero, negative or positive. The first position is
+//one (1) not zero(0) as we typically associate with string implementations. (description from the handout)  
+ 
   
   
 }
 
 //----------------------------------------------------------------------------------------------------
 function getMaxSkewN(string str, int n){ //returns an integer
-  
+//Given a genome str of some length q (where q>0), it returns the maximum value of the number of Gs minus the
+//number of Cs in the first n nucleotides (q>=n). The value can be zero, negative or positive. The first position
+//is one (1) not zero(0) as we typically associate with string implementations. (description from the handout)
   
 }
 
 //----------------------------------------------------------------------------------------------------
 function getMinSkewN(string str, int n){ //returns an integer
-
+//Given a genome str of some length q (where q>0), it returns the minimum value of the number of Gs minus the
+//number of Cs in the first n nucleotides (q>=n). The value can be zero, negative or positive. The first position
+//is one (1) not zero(0) as we typically associate with string implementations. (description from the handout)
 
 
 }
