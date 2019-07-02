@@ -1,4 +1,4 @@
-# CMSC 128 (Introduction to Software Engineering) Assignment A.Y. 2015-2016
+# CMSC 128 (Introduction to Software Engineering) Assignment, A.Y. 2015-2016
 
 ---
 
