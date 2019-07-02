@@ -1,4 +1,3 @@
-//----------------------------------------------------------------------------------------------------
 function getMinSkewN(string str, int n){ //returns an integer
 //Given a genome str of some length q (where q>0), it returns the minimum value of the number of Gs minus the
 //number of Cs in the first n nucleotides (q>=n). The value can be zero, negative or positive. The first position
@@ -21,6 +20,3 @@ function getMinSkewN(string str, int n){ //returns an integer
 	}
 	return min; //returns the minimum value of G minus C
 }
-
-
-
