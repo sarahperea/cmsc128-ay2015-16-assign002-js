@@ -6,7 +6,7 @@
 
 - **function getHammingDistance(string str1, string str2)**   
 
-  returns the number of different characters in the same position of str1 and str2
+  > returns the number of different characters in the same position of str1 and str2
 
 - **function countSubstrPattern(string original, string pattern)**
 
